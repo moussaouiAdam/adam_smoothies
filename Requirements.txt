@@ -1,0 +1,3 @@
+# requieremtntxt
+snowflake-snowpark-python
+streamlit 
